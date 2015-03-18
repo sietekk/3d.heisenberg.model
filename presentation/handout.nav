@@ -1,0 +1,77 @@
+\beamer@endinputifotherversion {3.32pt}
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/2}{}{0}}
+\headcommand {\beamer@framepages {2}{2}}
+\headcommand {\sectionentry {1}{Introduction}{3}{Introduction}{0}}
+\headcommand {\beamer@sectionpages {1}{2}}
+\headcommand {\beamer@subsectionpages {1}{2}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{3}{Goal}}\headcommand {\beamer@subsectionpages {3}{2}}
+\headcommand {\slideentry {1}{1}{1}{3/3}{Goal}{0}}
+\headcommand {\beamer@framepages {3}{3}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{4}{Brief Overview}}\headcommand {\beamer@subsectionpages {3}{3}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{1}{4}{Heisenberg Model}}
+\headcommand {\slideentry {1}{2}{1}{4/4}{Brief Overview}{0}}
+\headcommand {\beamer@framepages {4}{4}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{2}{5}{Magnetism and Magnetism in Statistical Mechanics}}
+\headcommand {\slideentry {1}{2}{2}{5/5}{Brief Overview}{0}}
+\headcommand {\beamer@framepages {5}{5}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{3}{6}{Phase Transitions}}
+\headcommand {\slideentry {1}{2}{3}{6/6}{Brief Overview}{0}}
+\headcommand {\beamer@framepages {6}{6}}
+\headcommand {\beamer@subsubsectionentry {0}{1}{2}{4}{7}{Numerical Analysis}}
+\headcommand {\slideentry {1}{2}{4}{7/7}{Brief Overview}{0}}
+\headcommand {\beamer@framepages {7}{7}}
+\headcommand {\sectionentry {2}{Background and Theory}{8}{Background and Theory}{0}}
+\headcommand {\beamer@sectionpages {3}{7}}
+\headcommand {\beamer@subsectionpages {4}{7}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{8}{Statistical Mechanics}}\headcommand {\beamer@subsectionpages {8}{7}}
+\headcommand {\slideentry {2}{1}{1}{8/8}{Statistical Mechanics}{0}}
+\headcommand {\beamer@framepages {8}{8}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{9}{The Heisenberg Model}}\headcommand {\beamer@subsectionpages {8}{8}}
+\headcommand {\slideentry {2}{2}{1}{9/9}{The Heisenberg Model}{0}}
+\headcommand {\beamer@framepages {9}{9}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{10}{Monte Carlo Method}}\headcommand {\beamer@subsectionpages {9}{9}}
+\headcommand {\slideentry {2}{3}{1}{10/10}{Monte Carlo Method}{0}}
+\headcommand {\beamer@framepages {10}{10}}
+\headcommand {\sectionentry {3}{Method}{11}{Method}{0}}
+\headcommand {\beamer@sectionpages {8}{10}}
+\headcommand {\beamer@subsectionpages {10}{10}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{11}{Implementation}}\headcommand {\beamer@subsectionpages {11}{10}}
+\headcommand {\beamer@subsubsectionentry {0}{3}{1}{1}{11}{Software}}
+\headcommand {\slideentry {3}{1}{1}{11/11}{Implementation}{0}}
+\headcommand {\beamer@framepages {11}{11}}
+\headcommand {\beamer@subsubsectionentry {0}{3}{1}{2}{12}{Hardware}}
+\headcommand {\slideentry {3}{1}{2}{12/12}{Implementation}{0}}
+\headcommand {\beamer@framepages {12}{12}}
+\headcommand {\sectionentry {4}{Results and Discussion}{13}{Results and Discussion}{0}}
+\headcommand {\beamer@sectionpages {11}{12}}
+\headcommand {\beamer@subsectionpages {11}{12}}
+\headcommand {\beamer@subsectionentry {0}{4}{1}{13}{Data Plots}}\headcommand {\beamer@subsectionpages {13}{12}}
+\headcommand {\slideentry {4}{1}{1}{13/13}{Data Plots}{0}}
+\headcommand {\beamer@framepages {13}{13}}
+\headcommand {\slideentry {4}{1}{2}{14/14}{Data Plots}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\slideentry {4}{1}{3}{15/15}{Data Plots}{0}}
+\headcommand {\beamer@framepages {15}{15}}
+\headcommand {\slideentry {4}{1}{4}{16/16}{Data Plots}{0}}
+\headcommand {\beamer@framepages {16}{16}}
+\headcommand {\sectionentry {5}{Conclusion}{17}{Conclusion}{0}}
+\headcommand {\beamer@sectionpages {13}{16}}
+\headcommand {\beamer@subsectionpages {13}{16}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{17}{Conclusion}}\headcommand {\beamer@subsectionpages {17}{16}}
+\headcommand {\slideentry {5}{1}{1}{17/17}{Conclusion}{0}}
+\headcommand {\beamer@framepages {17}{17}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{18}{Future Work}}\headcommand {\beamer@subsectionpages {17}{17}}
+\headcommand {\slideentry {5}{2}{1}{18/18}{Future Work}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\sectionentry {6}{Acknowledgments and References}{19}{Acknowledgments and References}{0}}
+\headcommand {\beamer@sectionpages {17}{18}}
+\headcommand {\beamer@subsectionpages {18}{18}}
+\headcommand {\slideentry {6}{0}{2}{19/19}{}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\beamer@partpages {1}{19}}
+\headcommand {\beamer@subsectionpages {19}{19}}
+\headcommand {\beamer@sectionpages {19}{19}}
+\headcommand {\beamer@documentpages {19}}
+\headcommand {\def \inserttotalframenumber {19}}

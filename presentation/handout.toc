@@ -1,0 +1,14 @@
+\beamer@endinputifotherversion {3.32pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Goal}{3}{0}{1}
+\beamer@subsectionintoc {1}{2}{Brief Overview}{4}{0}{1}
+\beamer@sectionintoc {2}{Background and Theory}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{Statistical Mechanics}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{The Heisenberg Model}{9}{0}{2}
+\beamer@subsectionintoc {2}{3}{Monte Carlo Method}{10}{0}{2}
+\beamer@sectionintoc {3}{Method}{11}{0}{3}
+\beamer@subsectionintoc {3}{1}{Implementation}{11}{0}{3}
+\beamer@sectionintoc {4}{Results and Discussion}{13}{0}{4}
+\beamer@subsectionintoc {4}{1}{Data Plots}{13}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{17}{0}{5}
+\beamer@sectionintoc {6}{Acknowledgments and References}{19}{0}{6}

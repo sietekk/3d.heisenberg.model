@@ -1,4 +1,4 @@
-#A Monte Carlo Study of the Classical, Isotropic, 3D Heisenberg Model:
+#A Monte Carlo Study of the Classical, Isotropic, 3D Heisenberg Model
 ##Numerical Studies of Stochastic Spin Systems
 
 ###Author: Michael Conroy
